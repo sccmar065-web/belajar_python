@@ -1,3 +1,0 @@
-nama = input("Solihat")
-print("hallo"+"nama"+"belajar python")
-
