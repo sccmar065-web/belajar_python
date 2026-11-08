@@ -1,2 +1,3 @@
-nama = input("Siapa nama kamu? ")
-print("Hallo " + nama + ", selamat belajar Python!")
+print=("halo dunia“)
+print=("saya sedang belajar python")
+
